@@ -1,0 +1,32 @@
+{
+  "name": "perf-api",
+  "version": "0.0.0",
+  "description": "A programmatic API for performance data.",
+  "main": "npm/index.js",
+  "author": "Markus Stange <mstange@themasta.com>",
+  "license": "MPL-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devtools-html/perf.html"
+  },
+  "dependencies": {
+    "array-move": "^1.0.0",
+    "array-range": "^1.0.1",
+    "bisection": "0.0.3",
+    "clamp": "^1.0.1",
+    "classnames": "^2.2.5",
+    "common-tags": "^1.4.0",
+    "copy-to-clipboard": "^3.0.5",
+    "fetch-jsonp": "^1.0.2",
+    "offline-plugin": "^4.5.2",
+    "pretty-bytes": "^4.0.2",
+    "prop-types": "^15.5.10",
+    "query-string": "^4.2.3",
+    "redux": "^3.7.0",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.2.0",
+    "reselect": "^3.0.1",
+    "text-encoding": "^0.6.4",
+    "url": "^0.11.0"
+  }
+}
